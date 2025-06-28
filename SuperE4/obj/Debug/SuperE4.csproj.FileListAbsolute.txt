@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\C#\SuperE4\bin\Debug\SuperE4.exe.config
+C:\Users\USUARIO\Desktop\C#\SuperE4\bin\Debug\SuperE4.exe
+C:\Users\USUARIO\Desktop\C#\SuperE4\bin\Debug\SuperE4.pdb
+C:\Users\USUARIO\Desktop\C#\SuperE4\obj\Debug\SuperE4.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\C#\SuperE4\obj\Debug\SuperE4.Form1.resources
+C:\Users\USUARIO\Desktop\C#\SuperE4\obj\Debug\SuperE4.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\C#\SuperE4\obj\Debug\SuperE4.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\C#\SuperE4\obj\Debug\SuperE4.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\C#\SuperE4\obj\Debug\SuperE4.exe
+C:\Users\USUARIO\Desktop\C#\SuperE4\obj\Debug\SuperE4.pdb
+C:\Users\USUARIO\Desktop\C#\SuperE4\obj\Debug\SuperE4.exe.config
