@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\C#\TemporizadorApp\bin\Debug\TemporizadorApp.exe.config
+C:\Users\USUARIO\Desktop\C#\TemporizadorApp\bin\Debug\TemporizadorApp.exe
+C:\Users\USUARIO\Desktop\C#\TemporizadorApp\bin\Debug\TemporizadorApp.pdb
+C:\Users\USUARIO\Desktop\C#\TemporizadorApp\obj\Debug\TemporizadorApp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\C#\TemporizadorApp\obj\Debug\TemporizadorApp.Form1.resources
+C:\Users\USUARIO\Desktop\C#\TemporizadorApp\obj\Debug\TemporizadorApp.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\C#\TemporizadorApp\obj\Debug\TemporizadorApp.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\C#\TemporizadorApp\obj\Debug\TemporizadorApp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\C#\TemporizadorApp\obj\Debug\TemporizadorApp.exe
+C:\Users\USUARIO\Desktop\C#\TemporizadorApp\obj\Debug\TemporizadorApp.pdb
+C:\Users\USUARIO\Desktop\C#\TemporizadorApp\obj\Debug\TemporizadorApp.exe.config
