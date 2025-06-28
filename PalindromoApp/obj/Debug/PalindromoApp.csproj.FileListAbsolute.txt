@@ -1,0 +1,10 @@
+C:\Users\USUARIO\Desktop\C#\PalindromoApp\bin\Debug\PalindromoApp.exe.config
+C:\Users\USUARIO\Desktop\C#\PalindromoApp\bin\Debug\PalindromoApp.exe
+C:\Users\USUARIO\Desktop\C#\PalindromoApp\bin\Debug\PalindromoApp.pdb
+C:\Users\USUARIO\Desktop\C#\PalindromoApp\obj\Debug\PalindromoApp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\C#\PalindromoApp\obj\Debug\PalindromoApp.Form1.resources
+C:\Users\USUARIO\Desktop\C#\PalindromoApp\obj\Debug\PalindromoApp.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\C#\PalindromoApp\obj\Debug\PalindromoApp.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\C#\PalindromoApp\obj\Debug\PalindromoApp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\C#\PalindromoApp\obj\Debug\PalindromoApp.exe
+C:\Users\USUARIO\Desktop\C#\PalindromoApp\obj\Debug\PalindromoApp.pdb
