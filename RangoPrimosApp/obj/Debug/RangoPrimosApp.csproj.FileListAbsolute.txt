@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\C#\RangoPrimosApp\bin\Debug\RangoPrimosApp.exe.config
+C:\Users\USUARIO\Desktop\C#\RangoPrimosApp\bin\Debug\RangoPrimosApp.exe
+C:\Users\USUARIO\Desktop\C#\RangoPrimosApp\bin\Debug\RangoPrimosApp.pdb
+C:\Users\USUARIO\Desktop\C#\RangoPrimosApp\obj\Debug\RangoPrimosApp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\C#\RangoPrimosApp\obj\Debug\RangoPrimosApp.Form1.resources
+C:\Users\USUARIO\Desktop\C#\RangoPrimosApp\obj\Debug\RangoPrimosApp.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\C#\RangoPrimosApp\obj\Debug\RangoPrimosApp.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\C#\RangoPrimosApp\obj\Debug\RangoPrimosApp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\C#\RangoPrimosApp\obj\Debug\RangoPrimosApp.exe
+C:\Users\USUARIO\Desktop\C#\RangoPrimosApp\obj\Debug\RangoPrimosApp.pdb
+C:\Users\USUARIO\Desktop\C#\RangoPrimosApp\obj\Debug\RangoPrimosApp.exe.config
