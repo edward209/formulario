@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\C#\NumeroPerfectoApp\bin\Debug\NumeroPerfectoApp.exe.config
+C:\Users\USUARIO\Desktop\C#\NumeroPerfectoApp\bin\Debug\NumeroPerfectoApp.exe
+C:\Users\USUARIO\Desktop\C#\NumeroPerfectoApp\bin\Debug\NumeroPerfectoApp.pdb
+C:\Users\USUARIO\Desktop\C#\NumeroPerfectoApp\obj\Debug\NumeroPerfectoApp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\C#\NumeroPerfectoApp\obj\Debug\NumeroPerfectoApp.Form1.resources
+C:\Users\USUARIO\Desktop\C#\NumeroPerfectoApp\obj\Debug\NumeroPerfectoApp.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\C#\NumeroPerfectoApp\obj\Debug\NumeroPerfectoApp.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\C#\NumeroPerfectoApp\obj\Debug\NumeroPerfectoApp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\C#\NumeroPerfectoApp\obj\Debug\NumeroPerfectoApp.exe
+C:\Users\USUARIO\Desktop\C#\NumeroPerfectoApp\obj\Debug\NumeroPerfectoApp.pdb
+C:\Users\USUARIO\Desktop\C#\NumeroPerfectoApp\obj\Debug\NumeroPerfectoApp.exe.config
