@@ -1,0 +1,11 @@
+C:\Users\USUARIO\Desktop\C#\TablaMultiplicarApp\bin\Debug\TablaMultiplicarApp.exe.config
+C:\Users\USUARIO\Desktop\C#\TablaMultiplicarApp\bin\Debug\TablaMultiplicarApp.exe
+C:\Users\USUARIO\Desktop\C#\TablaMultiplicarApp\bin\Debug\TablaMultiplicarApp.pdb
+C:\Users\USUARIO\Desktop\C#\TablaMultiplicarApp\obj\Debug\TablaMultiplicarApp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\C#\TablaMultiplicarApp\obj\Debug\TablaMultiplicarApp.Form1.resources
+C:\Users\USUARIO\Desktop\C#\TablaMultiplicarApp\obj\Debug\TablaMultiplicarApp.Properties.Resources.resources
+C:\Users\USUARIO\Desktop\C#\TablaMultiplicarApp\obj\Debug\TablaMultiplicarApp.csproj.GenerateResource.cache
+C:\Users\USUARIO\Desktop\C#\TablaMultiplicarApp\obj\Debug\TablaMultiplicarApp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\C#\TablaMultiplicarApp\obj\Debug\TablaMultiplicarApp.exe
+C:\Users\USUARIO\Desktop\C#\TablaMultiplicarApp\obj\Debug\TablaMultiplicarApp.pdb
+C:\Users\USUARIO\Desktop\C#\TablaMultiplicarApp\obj\Debug\TablaMultiplicarApp.exe.config
